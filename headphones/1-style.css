@@ -91,7 +91,6 @@ header ul li a {
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
 }
-
 .section-one .div-two {
     width: 70%;
     margin: auto;
@@ -104,5 +103,56 @@ header ul li a {
     line-height: 1.5;
     text-align: center;
 }
+
+.section-two {
+    margin-top: 100px;
+    padding-top: 100px;
+}
+.section-two .div-one h1 {
+    text-align: center;
+    padding-bottom: 30px;
+    text-transform: capitalize;
+}
+.section-two .div-one p {
+    padding: 0 200px;
+    line-height: 1.5;
+    font-weight: bold;
+    text-align: center;
+}
+.section-two .div-two {
+    width: 100%;
+}
+.section-two .div-two .flex {
+    width: 100%;
+    display: flex;
+    margin: 50px auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.section-two .div-two .flex div {
+    width: calc(100% /4);
+}
+.section-two .div-two .flex div i {
+    color: #FF6565;
+    font-size: 100px;
+}
+.section-two .div-two .flex div h1 {
+    padding: 10px 0;
+    text-transform: capitalize;
+}
+.section-two .div-two .flex div p {
+    padding: 0 20px;
+}
+
+
+
+
+
+
+
+
+
+
 
 /*End-Main-Style*/
