@@ -136,15 +136,11 @@ header ul li a {
 .section-two .div-two .flex div i {
     color: #FF6565;
     font-size: 100px;
-    cursor: pointer;
     transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -ms-transition: all .5s ease-in-out;
     -o-transition: all .5s ease-in-out;
-}
-.section-two .div-two .flex div i:hover {
-    opacity: 0.7;
 }
 .section-two .div-two .flex div h1 {
     padding: 10px 0;
@@ -183,20 +179,8 @@ header ul li a {
 }
 .section-three .div-two div .position img {
     width: 200px;
-    cursor: pointer;
-    transition: all 1s ease-in-out;
-    -webkit-transition: all 1s ease-in-out;
-    -moz-transition: all 1s ease-in-out;
-    -ms-transition: all 1s ease-in-out;
-    -o-transition: all 1s ease-in-out;
 }
-.section-three .div-two div .position img:hover {
-    transform: rotate(360deg);
-    -webkit-transform: rotate(360deg);
-    -moz-transform: rotate(360deg);
-    -ms-transform: rotate(360deg);
-    -o-transform: rotate(360deg);
-}
+
 .section-three .div-two div .position {
     position: relative;
 }
